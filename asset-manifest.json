@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-odisha/static/css/main.e024714d.css",
+    "main.js": "/new-odisha/static/js/main.58e14afa.js",
+    "static/media/main.jpeg": "/new-odisha/static/media/main.681e16ad1979bc65bea4.jpeg",
+    "static/media/logoSvg.svg": "/new-odisha/static/media/logoSvg.cde8950ffb67c6d75d258332ce1c7fd9.svg",
+    "index.html": "/new-odisha/index.html",
+    "main.e024714d.css.map": "/new-odisha/static/css/main.e024714d.css.map",
+    "main.58e14afa.js.map": "/new-odisha/static/js/main.58e14afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e024714d.css",
+    "static/js/main.58e14afa.js"
+  ]
+}
