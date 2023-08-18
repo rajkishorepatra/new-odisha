@@ -1,15 +1,13 @@
 import './App.css';
 import Home from './components/Home';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Register from './components/Register';
-import Agenda from './components/Agenda';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <>
       <Home />
       <Register />
-      <Agenda />
     </>
   );
 }

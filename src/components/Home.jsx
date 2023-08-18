@@ -16,7 +16,7 @@ function Home() {
                 <div className="text-center fw-bold fs-3 p-2 pb-4" style={{ color: "red" }}>
                     <Typewriter
                         options={{
-                            strings: ['We welcome all the Talented Creators of Odisha to this MEGA SUMMIT 💖', 'Join us on July 16, 10 AM at Bhubaneswar.'],
+                            strings: 'Stay Connected for all opportunities ahead!',
                             autoStart: true,
                             loop: true,
                             pauseFor: 2000,
